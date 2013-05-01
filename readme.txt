@@ -1,8 +1,8 @@
 === Mapler.me ===
 Tags: gaming, maplestory, avatars
 Requires at least: 3.0.1
-Tested up to: 3.4
-Stable tag: 1.0.1
+Tested up to: 3.5.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,6 +21,9 @@ This allows you to add player avatars effortlessly to posts, pages, and any area
 3. Use [maplerme player="namehere"] to add player avatars.
 
 == Changelog ==
+
+= 1.0.2 =
+* Minor fixes.
 
 = 1.0.1 =
 * Initial Release.

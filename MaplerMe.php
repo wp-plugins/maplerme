@@ -3,7 +3,7 @@
 Plugin Name: Mapler.me
 Plugin URI: http://mapler.me/
 Description: Mapler.me's Official Wordpress Plugin
-Version: 0.1
+Version: 1.0.2
 Author: Mapler.me
 Author URI: http://tylerliberman.com
 License: GPL2
