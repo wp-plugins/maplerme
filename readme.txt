@@ -14,6 +14,12 @@ The official Mapler.me Wordpress plugin!
 
 This allows you to add player avatars effortlessly to posts, pages, and any areas that support shortcodes.
 
+To include an avatar with a link to it's page use:
+[maplerme player="Namehere"]
+
+To include an avatar WITHOUT a link use:
+[maplerme player="Namehere" link="no"]
+
 == Installation ==
 
 1. Upload `MaplerMe.php` to the `/wp-content/plugins/` directory
@@ -24,6 +30,7 @@ This allows you to add player avatars effortlessly to posts, pages, and any area
 
 = 1.0.2 =
 * Minor fixes.
+*
 
 = 1.0.1 =
 * Initial Release.
