@@ -33,6 +33,7 @@ function maplerme_shortcode( $atts ) {
 		return '<a href="//mapler.me/player/'.$player.'"><img src="//mapler.me/avatar/'.$player.'"/></a>';
 	}
 	else {
+		//no link added if $link is set to anything else but yes.
 		return '<img src="//mapler.me/avatar/'.$player.'"/>';
 	}
 }
